@@ -1,5 +1,5 @@
 # A Project- nodejs, react challenge
-fetchs movies from the __OMDBAPI__
+A repo combining challenges from react and nodejs,
 
 > # Usage
 >
@@ -10,7 +10,7 @@ No extra dependencies are required except those that comes with nodejs.
 
 > ## Installing the the Project
 ````
-git clone 'this github repo'
+git clone 'git@github.com:kosekaku/traveSIM.git'
 ````
 >> ### Node js -> omdbapi- fetching movies
 A simple __zero__ extenal dependencies node js app that fetches movies from the omdb api.  
